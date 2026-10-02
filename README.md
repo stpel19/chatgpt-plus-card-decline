@@ -1,0 +1,1 @@
+# chatgpt-plus-card-decline
